@@ -27,7 +27,7 @@ explore: events {
 }
 
 explore: inventory_items {
-  view_label: "Inventory Items Hub 1"
+  view_label: "Inventory Items Hub 1111"
   join: products {
     type: left_outer
     sql_on: ${inventory_items.product_id} = ${products.id} ;;
