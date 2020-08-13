@@ -1,8 +1,6 @@
 view: bsandell {
   sql_table_name: public.bsandell ;;
 
-  # This is a comment
-  # This is another comment
 
   dimension: car_id {
     type: number
